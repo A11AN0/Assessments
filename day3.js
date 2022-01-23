@@ -1,4 +1,4 @@
-// make a function that can add * a certain number of times and return a perfectly triangular pyramid that is 'n' floors high
+// A function that can add * a certain number of times and return a perfectly triangular pyramid that is 'n' floors high
 
 const towerBuilder = (nFloors) => {
    const floors = nFloors;
